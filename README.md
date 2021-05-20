@@ -1,4 +1,4 @@
-- Hi, I’m @atarczyn
+- Hi, I’m @tarzanski
 - I’m interested in computer architecture and low-level software
 - I’m currently learning computer architecture and low-level software
 - I’m looking to collaborate on anything interesting tbh
